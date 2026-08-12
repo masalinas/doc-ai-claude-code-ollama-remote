@@ -1,5 +1,5 @@
 # Description
-Configure ollama to be accesed in remote mode from claude code and ollama directly or throw liteLLM AI proxy.
+Configure claude code to use ollama models directly or throw LiteLLM AI Gateway Proxy.
 
 ## Steps
 
