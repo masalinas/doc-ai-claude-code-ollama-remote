@@ -58,7 +58,7 @@ Create a `settings.json` file under `.claude` folder in your project, and add th
 ```
 {
   "env": {
-    "ANTHROPIC_BASE_URL": "http://aburrido.edv.uniovi.es:11434",
+    "ANTHROPIC_BASE_URL": "http://<REMOTE_HOST>:11434",
     "ANTHROPIC_AUTH_TOKEN": "ollama",
     "ANTHROPIC_MODEL": "qwen3:14b"
   }
@@ -96,7 +96,7 @@ Create a `settings.json` file under `.claude` folder in your project, and add th
 ```
 {
   "env": {
-    "ANTHROPIC_BASE_URL": "http://aburrido.edv.uniovi.es:4000",
+    "ANTHROPIC_BASE_URL": "http://<REMOTE_HOST>:4000",
     "ANTHROPIC_AUTH_TOKEN": "liteLLM",
     "ANTHROPIC_MODEL": "qwen3-14b"
   }
