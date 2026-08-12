@@ -95,9 +95,9 @@ Create a `settings.json` file under `.claude` folder in your project, and add th
 ```
 {
   "env": {
-    "ANTHROPIC_BASE_URL": "http://<REMOTE_HOST>:4000",
+    "ANTHROPIC_BASE_URL": "http://<LITELLM_HOST>:4000",
     "ANTHROPIC_AUTH_TOKEN": "liteLLM",
-    "ANTHROPIC_MODEL": "qwen3-14b"
+    "ANTHROPIC_MODEL": "<LITELLM_MODEL_ID>"
   }
 }
 ```
