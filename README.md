@@ -1,5 +1,5 @@
 # Description
-Configure claude code to use ollama models directly or throw LiteLLM AI Gateway Proxy.
+Configure Claude Code to use ollama models directly or throw LiteLLM AI Proxy.
 
 ## Steps
 
