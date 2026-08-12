@@ -5,14 +5,13 @@ Configure ollama to be accesed in remote mode from claude code and ollama direct
 
 Follow these steps:
 
-- **STEP01**: install ollama
-Install from ollama portal:
+- **STEP01**: install ollama from ollama portal:
 
 ```shell
 $ curl -fsSL https://ollama.com/install.sh | sh
 ```
 
-- **STEP02**: configure remote mode
+- **STEP02**: Configure remote mode.
 Edit the ollama service configuration to access ollama remotely:
 
 ```shell
