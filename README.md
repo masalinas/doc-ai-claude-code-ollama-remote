@@ -102,3 +102,7 @@ Create a `settings.json` file under `.claude` folder in your project, and add th
 }
 ```
 
+**NOTE**:
+Select a LLM model with tool and thinking implemented. The Alibaba Cloud / Qwen Team Qwen family models support both characteristics. In my case I will select the Qwen3 with 14b parameters
+
+![Qwen 3 model](images/qwen_model.png)
